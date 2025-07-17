@@ -34,6 +34,7 @@ Transform:
   - {fileID: 3772961948346653370}
   - {fileID: 8096012365570214950}
   - {fileID: 3543803463920276123}
+  - {fileID: 709158246897496307}
   - {fileID: 8929862235143100225}
   m_Father: {fileID: 2774913092259735291}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
@@ -177,7 +178,7 @@ Transform:
   m_LocalScale: {x: 2.390574, y: 2.5798101, z: 0.2}
   m_ConstrainProportionsScale: 0
   m_Children: []
-  m_Father: {fileID: 2774913092259735291}
+  m_Father: {fileID: 3011375457660655193}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!33 &1743864975482972774
 MeshFilter:
@@ -263,7 +264,7 @@ GameObject:
   m_Component:
   - component: {fileID: 4514235597133594354}
   m_Layer: 3
-  m_Name: Porta6
+  m_Name: Porta
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -618,7 +619,6 @@ Transform:
   m_Children:
   - {fileID: 4514235597133594354}
   - {fileID: 3011375457660655193}
-  - {fileID: 709158246897496307}
   m_Father: {fileID: 0}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1 &6061997021412339794
@@ -938,7 +938,7 @@ GameObject:
   - component: {fileID: 7024840181830002396}
   - component: {fileID: 5395801199011015336}
   m_Layer: 0
-  m_Name: Chao2Andar (1)
+  m_Name: Chao2AndarBanheiro
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
